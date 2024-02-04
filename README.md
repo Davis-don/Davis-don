@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davis Ikou</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right'alt='coding'width="400" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64974faf-8a88-4f6d-9cf4-a81e9dc60718/d42ahrf-3ce6bd87-ea33-40a0-941d-e17729524f6b.jpg/v1/fill/w_900,h_675,q_75,strp/code_lyoko_gf_wallpaper_2_by_juice_in_a_box_d42ahrf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvNjQ5NzRmYWYtOGE4OC00ZjZkLTljZjQtYTgxZTlkYzYwNzE4XC9kNDJhaHJmLTNjZTZiZDg3LWVhMzMtNDBhMC05NDFkLWUxNzcyOTUyNGY2Yi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.aZeQp7h7DspuDZWOl9ujsT5r-W_8PPNQN6vJzzuEQWw'
+<p><img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64974faf-8a88-4f6d-9cf4-a81e9dc60718/d42ahrf-3ce6bd87-ea33-40a0-941d-e17729524f6b.jpg/v1/fill/w_900,h_675,q_75,strp/code_lyoko_gf_wallpaper_2_by_juice_in_a_box_d42ahrf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvNjQ5NzRmYWYtOGE4OC00ZjZkLTljZjQtYTgxZTlkYzYwNzE4XC9kNDJhaHJmLTNjZTZiZDg3LWVhMzMtNDBhMC05NDFkLWUxNzcyOTUyNGY2Yi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.aZeQp7h7DspuDZWOl9ujsT5r-W_8PPNQN6vJzzuEQWw" alt="Code image" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davis-don&label=Profile%20views&color=0e75b6&style=flat" alt="davis-don" /> </p>
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davis ikou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davis ikou" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/winky webbers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="winky webbers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/davis-ikou-876544267/?originalsubdomain=ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davis-ikou-876544267/?originalsubdomain=ke" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com@davisikou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com@davisikou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
